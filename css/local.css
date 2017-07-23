@@ -1,0 +1,111 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 10px;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+#forceToViewportWidth {
+    width: 100vw;
+}
+
+.intro .intro-body .brand-heading {
+    font-size: 90px;
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+#about.container {
+    padding-top: 120px;
+}
+
+.aboutSection-heading {
+    font-size: 60px;
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+.mapSection-heading {
+    text-align: center;
+    padding-top: 90px;
+    font-size: 60px;
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+/*! List (Primary Output) Styling */
+li.rimasMessage {
+    display: list-item;
+    font-size: 20px;
+    text-align: left;
+    list-style-type: none;
+}
+
+li.rimasMessage:first-letter {
+    font-size: 150%;
+}
+
+li.rimasDate {
+    margin-top: 10px;
+    text-align: left;
+    list-style-type: none;
+    font-size: 14px;
+    color: #BBBBBB;
+}
+
+li.latLong {
+    text-align: left;
+    list-style-type: none;
+    font-size: 14px;
+    color: #BBBBBB;
+}
+
+li.speed {
+    text-align: left;
+    list-style-type: none;
+    font-size: 14px;
+    color: #BBBBBB;
+    margin-bottom: 50px;
+}
+
+li.archiveLatLong {
+    text-align: left;
+    list-style-type: none;
+    font-size: 14px;
+    color: #BBBBBB;
+    margin-bottom: 50px;
+}
+
+
+#about li {
+    text-align: left;
+    list-style-type: none;
+}
+
+#about a {
+    font-size: 20px;
+}
+
+#map {
+    margin-top: 0px;
+}
+
+#mapSection li {
+    text-align: left;
+    list-style-type: none;
+}
+
+#mapSection ul {
+    margin-top: 10px;
+}
+
+footer  p{
+    font-size: 14px;
+    border-top: 1px solid rgba(255,255,255,.3);
+    border-bottom: 1px solid rgba(255,255,255,.3);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

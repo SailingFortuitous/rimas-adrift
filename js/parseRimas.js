@@ -209,7 +209,8 @@ function init() {
       {"Name":"Cape Horn","L":-55.987821,"N":-67.2980159},
       {"Name":"Hilo, HI USA","L":19.7292444,"N":-155.0862611},
 			{"Name":"Pago Pago, American Samoa","L":-14.2735028,"N":-170.6824667},
-      {"Name":"San Francisco, CA USA","L":37.8175833,"N":-122.4785278}
+      {"Name":"San Francisco, CA USA","L":37.8175833,"N":-122.4785278},
+      {"Name":"Savusavu, Fiji","L":-16.7781853,"N":-179.3331274}
 		];
 
 	function measureDistance(lat1, lon1, lat2, lon2)

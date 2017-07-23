@@ -206,6 +206,7 @@ function init() {
 
 		var locations = [
 			{"Name":"Akutan, AK USA","L":54.129777,"N":-165.938847},
+      {"Name":"Brisbane, Australia","L":-27.2093924,"N":153.0937550},
       {"Name":"Cape Horn","L":-55.987821,"N":-67.2980159},
       {"Name":"Hilo, HI USA","L":19.7292444,"N":-155.0862611},
 			{"Name":"Pago Pago, American Samoa","L":-14.2735028,"N":-170.6824667},

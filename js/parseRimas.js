@@ -202,7 +202,7 @@ function init() {
 
 	//Calculate Distances
 	document.getElementById("rimasLast").innerHTML += ('Last Transmission: ' + recentRimasDate + '<br />Location: ' + fLat + ', ' + fLon );
-	document.getElementById("rimasLink").innerHTML += ('<a href="http://maps.google.com/maps?q=' + lat1 + ',' + lon1 + '+(Rimas)&z=3">http://maps.google.com/maps?q=' + lat1 + ',' + lon1 + '+(Rimas)&z=3</a>' );
+	document.getElementById("rimasLink").innerHTML += ('<a href="https://maps.google.com/maps?q=' + lat1 + ',' + lon1 + '+(Rimas)&z=3">https://maps.google.com/maps?q=' + lat1 + ',' + lon1 + '+(Rimas)&z=3</a>' );
 
 		var locations = [
 			{"Name":"Akutan, AK USA","L":54.129777,"N":-165.938847},
